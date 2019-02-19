@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector_Generic:Conn_01x13 J4
+L kicad_port-rescue:Conn_01x13-Connector_Generic J4
 U 1 1 5C6B2D21
 P 2450 3400
 F 0 "J4" H 2370 4217 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "~" H 2450 3400 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x13 J3
+L kicad_port-rescue:Conn_01x13-Connector_Generic J3
 U 1 1 5C6B2DF8
 P 8450 3250
 F 0 "J3" H 8369 2425 50  0000 C CNN
@@ -37,7 +37,7 @@ F 3 "~" H 8450 3250 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x10 J6
+L kicad_port-rescue:Conn_01x10-Connector_Generic J6
 U 1 1 5C6B2ED2
 P 3200 5750
 F 0 "J6" V 3324 5696 50  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "~" H 3200 5750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x10 J5
+L kicad_port-rescue:Conn_01x10-Connector_Generic J5
 U 1 1 5C6B2F28
 P 7150 5700
 F 0 "J5" V 7274 5646 50  0000 C CNN
@@ -59,7 +59,7 @@ F 3 "~" H 7150 5700 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x13 J2
+L kicad_port-rescue:Conn_01x13-Connector_Generic J2
 U 1 1 5C6B2F6E
 P 2450 1700
 F 0 "J2" H 2370 2517 50  0000 C CNN
@@ -70,7 +70,7 @@ F 3 "~" H 2450 1700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x13 J1
+L kicad_port-rescue:Conn_01x13-Connector_Generic J1
 U 1 1 5C6B2F98
 P 8450 1500
 F 0 "J1" H 8369 675 50  0000 C CNN
@@ -164,95 +164,95 @@ PF6
 Text Label 6050 3750 2    50   ~ 0
 PF7
 $Comp
-L Device:LED_ALT D1
+L kicad_port-rescue:LED_ALT-Device D1
 U 1 1 5C6B6471
 P 4250 4900
 F 0 "D1" V 4288 4782 50  0000 R CNN
 F 1 "LED_ALT" V 4197 4782 50  0000 R CNN
-F 2 "Diodes_SMD:D_1206" H 4250 4900 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 4250 4900 50  0001 C CNN
 F 3 "~" H 4250 4900 50  0001 C CNN
 	1    4250 4900
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED_ALT D2
+L kicad_port-rescue:LED_ALT-Device D2
 U 1 1 5C6B6520
 P 4750 4900
 F 0 "D2" V 4788 4782 50  0000 R CNN
 F 1 "LED_ALT" V 4697 4782 50  0000 R CNN
-F 2 "Diodes_SMD:D_1206" H 4750 4900 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 4750 4900 50  0001 C CNN
 F 3 "~" H 4750 4900 50  0001 C CNN
 	1    4750 4900
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED_ALT D3
+L kicad_port-rescue:LED_ALT-Device D3
 U 1 1 5C6B6550
 P 5250 4900
 F 0 "D3" V 5288 4782 50  0000 R CNN
 F 1 "LED_ALT" V 5197 4782 50  0000 R CNN
-F 2 "Diodes_SMD:D_1206" H 5250 4900 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 5250 4900 50  0001 C CNN
 F 3 "~" H 5250 4900 50  0001 C CNN
 	1    5250 4900
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED_ALT D4
+L kicad_port-rescue:LED_ALT-Device D4
 U 1 1 5C6B6584
 P 5750 4900
 F 0 "D4" V 5788 4782 50  0000 R CNN
 F 1 "LED_ALT" V 5697 4782 50  0000 R CNN
-F 2 "Diodes_SMD:D_1206" H 5750 4900 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 5750 4900 50  0001 C CNN
 F 3 "~" H 5750 4900 50  0001 C CNN
 	1    5750 4900
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R_US R2
+L kicad_port-rescue:R_US-Device R2
 U 1 1 5C6B6AB7
 P 4750 5200
 F 0 "R2" H 4818 5246 50  0000 L CNN
 F 1 "R_US" H 4818 5155 50  0000 L CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4790 5190 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 4790 5190 50  0001 C CNN
 F 3 "~" H 4750 5200 50  0001 C CNN
 	1    4750 5200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R1
+L kicad_port-rescue:R_US-Device R1
 U 1 1 5C6B6BA3
 P 4250 5200
 F 0 "R1" H 4318 5246 50  0000 L CNN
 F 1 "R_US" H 4318 5155 50  0000 L CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4290 5190 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 4290 5190 50  0001 C CNN
 F 3 "~" H 4250 5200 50  0001 C CNN
 	1    4250 5200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R3
+L kicad_port-rescue:R_US-Device R3
 U 1 1 5C6B6C46
 P 5250 5200
 F 0 "R3" H 5318 5246 50  0000 L CNN
 F 1 "R_US" H 5318 5155 50  0000 L CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 5290 5190 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5290 5190 50  0001 C CNN
 F 3 "~" H 5250 5200 50  0001 C CNN
 	1    5250 5200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R4
+L kicad_port-rescue:R_US-Device R4
 U 1 1 5C6B6C7A
 P 5750 5200
 F 0 "R4" H 5818 5246 50  0000 L CNN
 F 1 "R_US" H 5818 5155 50  0000 L CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 5790 5190 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 5790 5190 50  0001 C CNN
 F 3 "~" H 5750 5200 50  0001 C CNN
 	1    5750 5200
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0101
+L kicad_port-rescue:+5V-power #PWR0101
 U 1 1 5C6B6D48
 P 5900 1850
 F 0 "#PWR0101" H 5900 1700 50  0001 C CNN
@@ -263,7 +263,7 @@ F 3 "" H 5900 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0102
+L kicad_port-rescue:+5V-power #PWR0102
 U 1 1 5C6B6E07
 P 4250 4750
 F 0 "#PWR0102" H 4250 4600 50  0001 C CNN
@@ -274,7 +274,7 @@ F 3 "" H 4250 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0103
+L kicad_port-rescue:+5V-power #PWR0103
 U 1 1 5C6B6E37
 P 4750 4750
 F 0 "#PWR0103" H 4750 4600 50  0001 C CNN
@@ -285,7 +285,7 @@ F 3 "" H 4750 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0104
+L kicad_port-rescue:+5V-power #PWR0104
 U 1 1 5C6B6E60
 P 5250 4750
 F 0 "#PWR0104" H 5250 4600 50  0001 C CNN
@@ -296,7 +296,7 @@ F 3 "" H 5250 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR0105
+L kicad_port-rescue:+5V-power #PWR0105
 U 1 1 5C6B6E89
 P 5750 4750
 F 0 "#PWR0105" H 5750 4600 50  0001 C CNN
@@ -307,7 +307,7 @@ F 3 "" H 5750 4750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0106
+L kicad_port-rescue:GND-power #PWR0106
 U 1 1 5C6B70AB
 P 4300 1850
 F 0 "#PWR0106" H 4300 1600 50  0001 C CNN
@@ -318,7 +318,7 @@ F 3 "" H 4300 1850 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0107
+L kicad_port-rescue:GND-power #PWR0107
 U 1 1 5C6B70F9
 P 5900 2850
 F 0 "#PWR0107" H 5900 2600 50  0001 C CNN
@@ -653,4 +653,5 @@ Wire Wire Line
 	4750 5450 4750 5350
 Wire Wire Line
 	4250 5450 4250 5350
+NoConn ~ 5900 2950
 $EndSCHEMATC

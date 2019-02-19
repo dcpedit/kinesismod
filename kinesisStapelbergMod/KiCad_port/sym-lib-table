@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/libs/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name kicad_port-rescue)(type Legacy)(uri ${KIPRJMOD}/kicad_port-rescue.lib)(options "")(descr ""))
 )
