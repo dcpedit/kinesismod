@@ -222,7 +222,7 @@
   )
 
   (module kinesisMod_board_connectors:Molex_0039532135 (layer F.Cu) (tedit 0) (tstamp 5C7188EC)
-    (at 109.49 78.64 270)
+    (at 119.29 76.24 270)
     (path /5C6B2F98)
     (fp_text reference J1 (at 0 -3.5 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -268,7 +268,7 @@
   )
 
   (module kinesisMod_board_connectors:Molex_0039532135 (layer F.Cu) (tedit 0) (tstamp 5C718906)
-    (at 170.18 78.74 90)
+    (at 179.98 76.34 90)
     (path /5C6B2F6E)
     (fp_text reference J2 (at 0 -3.5 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -314,7 +314,7 @@
   )
 
   (module kinesisMod_board_connectors:Molex_039532134 (layer F.Cu) (tedit 0) (tstamp 5C718920)
-    (at 95.25 127.12 270)
+    (at 105.05 124.72 270)
     (path /5C6B2DF8)
     (fp_text reference J3 (at 0 -5 270) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -360,7 +360,7 @@
   )
 
   (module kinesisMod_board_connectors:Molex_039532134 (layer F.Cu) (tedit 0) (tstamp 5C71893A)
-    (at 184.15 127 90)
+    (at 193.95 124.6 90)
     (path /5C6B2D21)
     (fp_text reference J4 (at 0 -5 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -406,7 +406,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm (layer F.Cu) (tedit 58CD4EC1) (tstamp 5C718957)
-    (at 161.29 148.59 90)
+    (at 173.8 147.4 90)
     (descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x10 2.54mm single row")
     (path /5C6B2F28)
@@ -461,7 +461,7 @@
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm (layer F.Cu) (tedit 58CD4EC1) (tstamp 5C718974)
-    (at 119.38 148.59 270)
+    (at 125 147.4 270)
     (descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x10 2.54mm single row")
     (path /5C6B2ED2)
@@ -516,7 +516,7 @@
   )
 
   (module teensy:Teensy++_2_0_40p (layer F.Cu) (tedit 5C6B1367) (tstamp 5C7189F9)
-    (at 140.97 104.14)
+    (at 149.8 96.4)
     (descr 20)
     (path /5C6B5EC7)
     (fp_text reference U1 (at 0 -10.16) (layer F.SilkS)
@@ -629,7 +629,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5C785324)
-    (at 127 147.32)
+    (at 133.6 147.2)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5C6B6471)
@@ -664,7 +664,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5C785337)
-    (at 134.62 147.32)
+    (at 143.4 147.6)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5C6B6520)
@@ -699,7 +699,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5C78534A)
-    (at 142.24 147.32)
+    (at 153.4 147.4)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5C6B6550)
@@ -734,7 +734,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5C78535D)
-    (at 149.86 147.32)
+    (at 163.4 147.4)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5C6B6584)
@@ -769,7 +769,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5C785370)
-    (at 125.73 142.24)
+    (at 132.8 143.6)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (path /5C6B6BA3)
@@ -806,7 +806,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5C785383)
-    (at 133.35 142.24)
+    (at 142.4 143.6)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (path /5C6B6AB7)
@@ -843,7 +843,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5C785396)
-    (at 140.97 142.24)
+    (at 152.2 143.4)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (path /5C6B6C46)
@@ -880,7 +880,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5C7853A9)
-    (at 148.59 142.24)
+    (at 162 143.4)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (path /5C6B6C7A)
@@ -916,9 +916,9 @@
     )
   )
 
-  (gr_line (start 90.17 67.31) (end 90.17 152.4) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 189.23 67.31) (end 90.17 67.31) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 189.23 152.4) (end 189.23 67.31) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 90.17 152.4) (end 189.23 152.4) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 99.97 64.91) (end 99.97 150) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 199.03 64.91) (end 99.97 64.91) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 199.03 150) (end 199.03 64.91) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 99.97 150) (end 199.03 150) (layer Edge.Cuts) (width 0.2))
 
 )
