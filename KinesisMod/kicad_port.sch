@@ -23,7 +23,7 @@ F 1 "Conn_01x13" H 2370 4126 50  0000 C CNN
 F 2 "kinesisMod_board_connectors:Molex_039532134" H 2450 3400 50  0001 C CNN
 F 3 "~" H 2450 3400 50  0001 C CNN
 	1    2450 3400
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L kicad_port-rescue:Conn_01x13-Connector_Generic J3
@@ -34,7 +34,7 @@ F 1 "Conn_01x13" H 8369 2516 50  0000 C CNN
 F 2 "kinesisMod_board_connectors:Molex_039532134" H 8450 3250 50  0001 C CNN
 F 3 "~" H 8450 3250 50  0001 C CNN
 	1    8450 3250
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L kicad_port-rescue:Conn_01x10-Connector_Generic J6
@@ -67,7 +67,7 @@ F 1 "Conn_01x13" H 2370 2426 50  0000 C CNN
 F 2 "kinesisMod_board_connectors:Molex_0039532135" H 2450 1700 50  0001 C CNN
 F 3 "~" H 2450 1700 50  0001 C CNN
 	1    2450 1700
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L kicad_port-rescue:Conn_01x13-Connector_Generic J1
@@ -78,7 +78,7 @@ F 1 "Conn_01x13" H 8369 766 50  0000 C CNN
 F 2 "kinesisMod_board_connectors:Molex_0039532135" H 8450 1500 50  0001 C CNN
 F 3 "~" H 8450 1500 50  0001 C CNN
 	1    8450 1500
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L teensy:Teensy++_2_0 U1
