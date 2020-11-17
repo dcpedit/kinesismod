@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name brd_to_kicad-eagle-import)(type Legacy)(uri ${KIPRJMOD}/brd_to_kicad-eagle-import.lib)(options "")(descr ""))
-)
