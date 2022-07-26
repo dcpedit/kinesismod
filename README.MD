@@ -1,5 +1,9 @@
 # Kinesis Stapelberg Mod in KiCAD
 
+This is a fork of https://gitlab.com/Silman/kinesismod.git and contains the following changes:
+
+* Modify PCB to support a Teensy 4.x
+
 Stapelberg mod ported to KiCAD and slightly reduced board size to reap cost benefits from cheap PCB fabs.
 
 KinesisMod directory stores the port
