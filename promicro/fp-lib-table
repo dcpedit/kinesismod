@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name "teensy")(type "KiCad")(uri "${KIPRJMOD}/libs/teensy.pretty")(options "")(descr ""))
-  (lib (name "kinesisMod_board_connectors")(type "KiCad")(uri "${KIPRJMOD}/kinesisMod_board_connectors.pretty")(options "")(descr ""))
-  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/libs/Kicad-STM32/Footprints")(options "")(descr ""))
-)
