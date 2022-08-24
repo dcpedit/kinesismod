@@ -2,7 +2,7 @@
 
 ![kinesis-4](https://user-images.githubusercontent.com/800930/185990424-a96519af-f886-4df4-ae59-8d9ac59fb093.jpg)
 
-This is a fork of Aaron Silman's [kinesismod project](https://gitlab.com/Silman/kinesismod.git).  You can read more about [on his blog](https://silman.io/project/kinesis_mod/)
+This is a fork of Aaron Silman's [kinesismod project](https://gitlab.com/Silman/kinesismod.git).  You can read more about it [on his blog](https://silman.io/project/kinesis_mod/)
 
 This fork contains the following changes:
 
