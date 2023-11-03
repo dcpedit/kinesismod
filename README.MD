@@ -8,4 +8,4 @@ This fork contains the following changes:
 
 * Created a version that uses the Teensy 4.x
 * Created a version that uses the STM32F411 Blackpill controller (`blackpill` directory)
-* Use Vial firmware (`firmware` directory).  Source code in my [fork of Vial](https://github.com/dcpedit/vial-qmk/tree/vial/keyboards/dcpedit/kint_bp)
+* Use Vial firmware (`firmware` directory).  Source code in my [fork of Vial](https://github.com/dcpedit/vial-qmk-dev/tree/vial/keyboards/dcpedit/kint_bp)
