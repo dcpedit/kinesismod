@@ -1,5 +1,5 @@
-# Project moved to [Pillz Mod](https://i.imgur.com/4i2z9Xu.png)
-<p aligh="center">
+# Project moved to [Pillz Mod](https://github.com/dcpedit/pillzmod)
+<p align="center">
   <img src="https://i.imgur.com/4i2z9Xu.png" width="350">
 </p>
 
