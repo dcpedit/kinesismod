@@ -1,3 +1,10 @@
+# Project moved to [Pillz Mod](https://i.imgur.com/4i2z9Xu.png)
+<p aligh="center">
+  <img src="https://i.imgur.com/4i2z9Xu.png" width="350">
+</p>
+
+This project has been replaced by Pillz Mod: https://github.com/dcpedit/pillzmod
+
 # Kinesis Stapelberg Mod in KiCAD
 
 ![kinesis-4](https://user-images.githubusercontent.com/800930/185990424-a96519af-f886-4df4-ae59-8d9ac59fb093.jpg)
